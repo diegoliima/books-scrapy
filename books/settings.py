@@ -1,0 +1,8 @@
+BOT_NAME = 'books'
+
+SPIDER_MODULES = ['books.spiders']
+NEWSPIDER_MODULE = 'books.spiders'
+
+ROBOTSTXT_OBEY = False
+CONCURRENT_REQUESTS = 16
+AUTOTHROTTLE_ENABLED = True

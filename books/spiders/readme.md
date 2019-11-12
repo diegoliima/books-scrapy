@@ -1,0 +1,1 @@
+Web Scraping utilizando a biblioteca Scrapy.
