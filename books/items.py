@@ -8,5 +8,6 @@ class BooksItem(scrapy.Item):
     quantity = scrapy.Field()
     rating = scrapy.Field()
     category = scrapy.Field()
+    upc = scrapy.Field()
     scrape_date = scrapy.Field()
     url = scrapy.Field()
